@@ -27,8 +27,8 @@ A modern chatbot built with **Python**, **LangChain**, **Streamlit**, and **Goog
 ## 📸 Comparison – Before vs After  
 
 <p align="center">
-  <img src="screenshot/before.png" alt="Before Use" width="45%" />
-  <img src="assets/after.png" alt="After Use" width="45%" />
+  <img src="screenshot/UI.png" alt="Before Use" width="45%" />
+  <img src="screenshot/UI_after_use.png" alt="After Use" width="45%" />
 </p>  
 
 ---
